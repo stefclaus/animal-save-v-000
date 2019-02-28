@@ -18,7 +18,6 @@ html {
 @media screen only and (min-width: 1196px;) {
   #bear{
   position: relative;
-  float: left;
   padding-left: 800px;
   }
 }
