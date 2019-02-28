@@ -19,4 +19,6 @@ html {
 }
 
 /* Write your solution here */
- @media screen only and {max-width: 1350px;}
+ @media screen only and (max-width: 1350px;) {
+
+ }
